@@ -1,0 +1,5 @@
+﻿GetAsyncKeyState
+VIRTUAL_KEY
+WM_KEYDOWN
+GetProcAddress
+GetModuleHandle

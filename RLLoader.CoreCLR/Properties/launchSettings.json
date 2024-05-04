@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "RLLoader.CoreCLR": {
+      "commandName": "Project"
+    },
+    "Rocket League": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Program Files\\Epic Games\\rocketleague\\Binaries\\Win64\\RocketLeague.exe",
+      "commandLineArgs": "-EpicPortal -epicuserid=RLLoader"
+    }
+  }
+}

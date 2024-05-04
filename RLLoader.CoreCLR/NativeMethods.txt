@@ -1,0 +1,3 @@
+﻿AllocConsole
+GetConsoleWindow
+SetLayeredWindowAttributes
